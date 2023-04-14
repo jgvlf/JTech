@@ -20,11 +20,11 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/jgvlf/jtech-api-api/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/jgvlf/jtech-api?color=BD00FF&style=plastic"/></a>
-  <a href="https://github.com/jgvlf/jtech-api/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/jgvlf/jtech-api?color=6F00D8&style=plastic"/></a>
-  <a href="https://github.com/jgvlf/jtech-api/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/jgvlf/jtech-api?color=0003FF&style=plastic"/></a>
-  <a href="https://github.com/jgvlf/jtech-api/issues"><img alt="Issues" src="https://img.shields.io/github/issues/jgvlf/jtech-api?color=008BFF&style=plastic"/></a>
-  <a href="https://github.com/jgvlf/jtech-api/blob/deploy/LICENSE.md"><img alt="MIT License" src="https://img.shields.io/github/license/jgvlf/jtech-api?color=00FBFF&style=plastic"/></a>
+  <a href="https://github.com/jgvlf/jtech/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/jgvlf/jtech?color=BD00FF&style=plastic"/></a>
+  <a href="https://github.com/jgvlf/jtech/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/jgvlf/jtech?color=6F00D8&style=plastic"/></a>
+  <a href="https://github.com/jgvlf/jtech/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/jgvlf/jtech?color=0003FF&style=plastic"/></a>
+  <a href="https://github.com/jgvlf/jtech/issues"><img alt="Issues" src="https://img.shields.io/github/issues/jgvlf/jtech?color=008BFF&style=plastic"/></a>
+  <a href="https://github.com/jgvlf/jtech/blob/deploy/LICENSE.md"><img alt="MIT License" src="https://img.shields.io/github/license/jgvlf/jtech?color=00FBFF&style=plastic"/></a>
   <a href="https://www.linkedin.com/in/jgvlf/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&color=0A66C2"/>   </a>
 </p>
 
@@ -40,22 +40,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jgvlf/jtech-api">
+  <a href="https://github.com/jgvlf/jtech">
     <img src="images/JTech_Logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">JTech API</h3>
+  <h3 align="center">JTech</h3>
 
   <p align="center">
-    The API of the JTech E-Commerce
+    The Mobile Technology E-Comerce
     <br />
     <br />
     <br />
-    <a href="https://github.com/jgvlf/jtech-api">View Demo</a>
+    <a href="https://github.com/jgvlf/jtech">View Demo</a>
     ·
-    <a href="https://github.com/jgvlf/jtech-api/issues">Report Bug</a>
+    <a href="https://github.com/jgvlf/jtech/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jgvlf/jtech-api/issues">Request Feature</a>
+    <a href="https://github.com/jgvlf/jtech/issues">Request Feature</a>
   </p>
 </div>
 
@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 João Gabriel Venceslau Lacerda Fernandes - joaogabrielvlf@gmail.com
 
-Project Link: [https://github.com/jgvlf/jtech-api](https://github.com/jgvlf/jtech-api)
+Project Link: [https://github.com/jgvlf/jtech](https://github.com/jgvlf/jtech)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,16 +123,16 @@ Project Link: [https://github.com/jgvlf/jtech-api](https://github.com/jgvlf/jtec
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jgvlf/jtech-api?color=BD00FF&style=plastic
-[contributors-url]: https://github.com/jgvlf/jtech-api/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jgvlf/jtech-api?color=6F00D8&style=plastic
-[forks-url]: https://github.com/jgvlf/jtech-api/network/members
-[stars-shield]: https://img.shields.io/github/stars/jgvlf/jtech-api?color=0003FF&style=plastic
-[stars-url]: https://github.com/jgvlf/jtech-api/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jgvlf/jtech-api?color=008BFF&style=plastic
-[issues-url]: https://github.com/jgvlf/jtech-api/issues
-[license-shield]: https://img.shields.io/github/license/jgvlf/jtech-api?color=00FBFF&style=plastic
-[license-url]: https://github.com/jgvlf/jtech-api/blob/deploy/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jgvlf/jtech?color=BD00FF&style=plastic
+[contributors-url]: https://github.com/jgvlf/jtech/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jgvlf/jtech?color=6F00D8&style=plastic
+[forks-url]: https://github.com/jgvlf/jtech/network/members
+[stars-shield]: https://img.shields.io/github/stars/jgvlf/jtech?color=0003FF&style=plastic
+[stars-url]: https://github.com/jgvlf/jtech/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jgvlf/jtech?color=008BFF&style=plastic
+[issues-url]: https://github.com/jgvlf/jtech/issues
+[license-shield]: https://img.shields.io/github/license/jgvlf/jtech?color=00FBFF&style=plastic
+[license-url]: https://github.com/jgvlf/jtech/blob/deploy/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&color=0A66C2
 [linkedin-url]: https://www.linkedin.com/in/jgvlf/
 <!-- [product-screenshot]: images/screenshot.png -->
